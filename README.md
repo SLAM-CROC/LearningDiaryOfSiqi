@@ -14,5 +14,4 @@
 
 **[2022-05-28]**
 * Language Modeling, Training Tricks
-* Coding: Language Model with mini-batch:
- 
+* Coding: Language Model with mini-batch:https://github.com/SLAM-CROC/LearningDiaryOfSiqi/blob/main/neuralLM.py
