@@ -13,3 +13,6 @@
 * Coding: Linear Model https://github.com/SLAM-CROC/LearningDiaryOfSiqi/blob/main/linearModel.py
 
 **[2022-05-28]**
+* Language Modeling, Training Tricks
+* Coding: Language Model with mini-batch:
+ 
