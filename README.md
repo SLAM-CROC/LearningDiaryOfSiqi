@@ -15,3 +15,7 @@
 **[2022-05-28]**
 * CMU CS 11-747 Language Modeling, Training Tricks
 * Coding: Language Model with mini-batch:https://github.com/SLAM-CROC/LearningDiaryOfSiqi/blob/main/neuralLM.py
+
+**[2022-05-29]**
+* CMU CS 11-747 How to Build a Neural Network Toolkit
+* CMU CS 11-711 Overview of NLP
