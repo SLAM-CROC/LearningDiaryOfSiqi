@@ -21,4 +21,4 @@
 * CMU CS 11-711 Overview of NLP
 
 **[2022-05-30]**
-* English - French Machine Translation Project https://github.com/SLAM-CROC/English-French-Machine-Translation
+* Coding: English - French Machine Translation Project https://github.com/SLAM-CROC/English-French-Machine-Translation
