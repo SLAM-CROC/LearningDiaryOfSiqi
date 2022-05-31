@@ -19,3 +19,6 @@
 **[2022-05-29]**
 * CMU CS 11-747 How to Build a Neural Network Toolkit
 * CMU CS 11-711 Overview of NLP
+
+**[2022-05-30]**
+* English - French Machine Translation Project https://github.com/SLAM-CROC/English-French-Machine-Translation
