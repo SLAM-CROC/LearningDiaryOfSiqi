@@ -22,3 +22,6 @@
 
 **[2022-05-30]**
 * Coding: English - French Machine Translation Project https://github.com/SLAM-CROC/English-French-Machine-Translation
+
+**[2022-05-31]**
+* AI-innovate Machine Vision project bi-weekly meeting
