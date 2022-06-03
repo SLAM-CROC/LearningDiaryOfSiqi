@@ -29,7 +29,8 @@
 **[2022-06-03]**  
 * Pytorch Tutorial by Hongpu Liu:
   * 06 Logistic Regression
-  * 07
-  * 08
+  * 07 Multiple Diemension
+  * 08 Dataset and DataLoader
   * 09
-* Coding: Logistic Regression Classification: 
+* Coding: Logistic Regression Classification: https://github.com/SLAM-CROC/LearningDiaryOfSiqi/blob/main/logistic.py
+* Coding: Logistic Regression Multiple Diemension Classification:
