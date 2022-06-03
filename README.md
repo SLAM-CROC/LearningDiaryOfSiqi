@@ -33,4 +33,5 @@
   * 08 Dataset and DataLoader
   * 09
 * Coding: Logistic Regression Classification: https://github.com/SLAM-CROC/LearningDiaryOfSiqi/blob/main/logistic.py
-* Coding: Logistic Regression Multiple Diemension Classification:
+* Coding: Logistic Regression Multiple Diemension Classification: https://github.com/SLAM-CROC/LearningDiaryOfSiqi/blob/main/logistic.py
+* Coding: DataLoader for mini-batch: 
