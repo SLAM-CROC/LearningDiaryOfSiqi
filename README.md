@@ -25,3 +25,11 @@
 
 **[2022-05-31]**
 * AI-innovate Machine Vision project bi-weekly meeting
+
+**[2022-06-03]**  
+* Pytorch Tutorial by Hongpu Liu:
+  * 06 Logistic Regression
+  * 07
+  * 08
+  * 09
+* Coding: Logistic Regression Classification: 
