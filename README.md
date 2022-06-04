@@ -31,7 +31,7 @@
   * 06 Logistic Regression
   * 07 Multiple Diemension
   * 08 Dataset and DataLoader
-  * 09
+  * 09 Softmax Classifier
 * Coding: Logistic Regression Classification: https://github.com/SLAM-CROC/LearningDiaryOfSiqi/blob/main/logistic.py
 * Coding: Logistic Regression Multiple Diemension Classification: https://github.com/SLAM-CROC/LearningDiaryOfSiqi/blob/main/logistic.py
-* Coding: DataLoader for mini-batch: 
+* Coding: DataLoader for mini-batch: https://github.com/SLAM-CROC/LearningDiaryOfSiqi/blob/main/dataLoader.py
