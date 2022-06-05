@@ -35,3 +35,11 @@
 * Coding: Logistic Regression Classification: https://github.com/SLAM-CROC/LearningDiaryOfSiqi/blob/main/logistic.py
 * Coding: Logistic Regression Multiple Diemension Classification: https://github.com/SLAM-CROC/LearningDiaryOfSiqi/blob/main/logistic.py
 * Coding: DataLoader for mini-batch: https://github.com/SLAM-CROC/LearningDiaryOfSiqi/blob/main/dataLoader.py
+
+**[2022-06-05]**
+* Pytorch Tutorial by Hongpu Liu:
+  * 10 Basic CNN
+  * 11 Advance CNN
+  * 12 Basic RNN
+  * 13 Advance RNN
+* Coding: FFNN for MINIST: 
