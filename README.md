@@ -42,4 +42,4 @@
   * 11 Advance CNN
   * 12 Basic RNN
   * 13 Advance RNN
-* Coding: FFNN for MINIST: 
+* Coding: FFNN for MINIST: https://github.com/SLAM-CROC/LearningDiaryOfSiqi/blob/main/multiClassification.py
