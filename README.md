@@ -43,3 +43,5 @@
   * 12 Basic RNN
   * 13 Advance RNN
 * Coding: FFNN for MINIST: https://github.com/SLAM-CROC/LearningDiaryOfSiqi/blob/main/multiClassification.py
+* Coding: CNN for MINIST: https://github.com/SLAM-CROC/LearningDiaryOfSiqi/blob/main/ministcnn.py
+* Coding: GoogleNet & ResNet for MINIST:
