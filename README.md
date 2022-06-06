@@ -49,4 +49,4 @@
 **[2022-06-06]**
 * Pytorch Tutorial by Hongpu Liu:
   * Advance rnn
-* Coding: Name Language Classification by GRU:
+* Coding: Name Language Classification by GRU:https://github.com/SLAM-CROC/LearningDiaryOfSiqi/blob/main/gru.py
