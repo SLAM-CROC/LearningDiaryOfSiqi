@@ -45,3 +45,8 @@
 * Coding: CNN for MINIST: https://github.com/SLAM-CROC/LearningDiaryOfSiqi/blob/main/ministcnn.py
 * Coding: GoogleNet & ResNet for MINIST: https://github.com/SLAM-CROC/LearningDiaryOfSiqi/blob/main/googleNet.py; https://github.com/SLAM-CROC/LearningDiaryOfSiqi/blob/main/ResNet.py
 * Coding: Pytroch RNN: https://github.com/SLAM-CROC/LearningDiaryOfSiqi/blob/main/rnn.py
+
+**[2022-06-06]**
+* Pytorch Tutorial by Hongpu Liu:
+  * Advance rnn
+* Coding: Name Language Classification by GRU:
