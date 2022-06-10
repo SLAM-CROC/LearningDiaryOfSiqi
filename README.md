@@ -50,3 +50,11 @@
 * Pytorch Tutorial by Hongpu Liu:
   * Advance rnn
 * Coding: Name Language Classification by GRU:https://github.com/SLAM-CROC/LearningDiaryOfSiqi/blob/main/gru.py
+
+**[2022-06-08]**
+* CMU CS 11-747 Efficiency Tricks for Neural Nets
+* Machine Learning 2021 Lecture by Hung-yi Lee:
+  * Self-Attention(1) https://www.youtube.com/watch?v=hYdO9CscNes&t=3s
+  * Self-Attention(2) https://www.youtube.com/watch?v=gmsMY5kc-zw&list=PLJV_el3uVTsMhtt7_Y6sgTHGHp1Vb2P2J&index=11&t=8s
+  * Transformer(1) https://www.youtube.com/watch?v=n9TlOhRjYoc
+  * Transformer(2) https://www.youtube.com/watch?v=N6aRv06iv2g
