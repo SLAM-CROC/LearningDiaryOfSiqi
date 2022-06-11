@@ -58,3 +58,6 @@
   * Self-Attention(2) https://www.youtube.com/watch?v=gmsMY5kc-zw&list=PLJV_el3uVTsMhtt7_Y6sgTHGHp1Vb2P2J&index=11&t=8s
   * Transformer(1) https://www.youtube.com/watch?v=n9TlOhRjYoc
   * Transformer(2) https://www.youtube.com/watch?v=N6aRv06iv2g
+
+**[2022-06-11]**
+* Coding: Python Binary Tree, implement, create, add, traversal
